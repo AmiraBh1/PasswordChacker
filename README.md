@@ -1,6 +1,7 @@
 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 
 
 This Python program provides a comprehensive password strength checker🔐.
+
 ✨ It evaluates passwords based on the following criteria:
 
 •Length (minimum of 8 characters)
