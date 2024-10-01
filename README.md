@@ -14,6 +14,7 @@ This Python program provides a comprehensive password strength checker🔐.
 
 
 ✨The program provides feedback on password strength, categorizing it as:
+
 •Very Strong
 •Moderate
 •Weak
