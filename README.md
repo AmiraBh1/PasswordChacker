@@ -5,9 +5,13 @@ This Python program provides a comprehensive password strength checker🔐.
 
 •Length (minimum of 8 characters)
 •Presence of both uppercase and lowercase letters
+
 •Inclusion of digits
+
 •Inclusion of special characters (such as @, #, %, ?)
+
 •Avoiding common weak passwords (e.g., 123456, password, etc.)
+
 
 ✨The program provides feedback on password strength, categorizing it as:
 •Very Strong
